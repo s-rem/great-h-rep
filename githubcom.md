@@ -2,6 +2,7 @@
 layout: default
 title: GitHubを使ったコミュニケーション
 ---
+
 # GitHubを使ったコミュニケーション
 
 ## 宣伝
