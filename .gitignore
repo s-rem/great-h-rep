@@ -1,0 +1,8 @@
+
+*.swp
+
+*.~
+
+.index.html.swp
+
+*.html~
